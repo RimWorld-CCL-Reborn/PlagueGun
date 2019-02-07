@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Test Mod - Plague Gun</name>
+  <author>YourNameHere</author>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <description>V1.0
+    This mod adds a plague gun, a weapon that has a chance to give your enemies the plague.
+  </description>
+</ModMetaData>
