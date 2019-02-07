@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <TST_PlagueBullet_FailureMote>Failure: {0} chance</TST_PlagueBullet_FailureMote>
+    <TST_PlagueBullet_SuccessMessage>{0} infected {1} with the plague!</TST_PlagueBullet_SuccessMessage>
+</LanguageData>
